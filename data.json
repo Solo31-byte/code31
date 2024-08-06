@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "hotel":"Auberge la falaise",
+        "image":"./images/hebergements/marcus-loke.jpg",
+        "title":"Auberge la Canebiere",
+        "subtitle":"Nuit a partir de 25€",
+        "rating":"5"
+    }
+    ,
+    {
+        "id":2,
+        "hotel":"Le Printemps",
+        "image":"./images/hebergements/fred-kleber.jpg",
+        "title":"Hotel du port",
+        "subtitle":"Nuit a partir de 25€",
+        "rating":"5"
+    }
+    ,
+    {
+        "id":3,
+        "hotel":"Palace",
+        "image":"./images/hebergements/febrian-zakaria2.jpg",
+        "title":"Hotel les Mouettes",
+        "subtitle":"Nuit a partir de 76€",
+        "rating":"5"
+    }
+    ,
+    {
+        "id":4,
+        "hotel":"Le Printemps",
+        "image":"./images/hebergements/annie-spratt.jpg",
+        "title":"Hotel de la Mer",
+        "subtitle":"Nuit a partir de 46€",
+        "rating":"5"
+    }
+    ,
+    {
+        "id":5,
+        "hotel":"Auberge la falaise",
+        "image":"./images/hebergements/nicate-lee.jpg",
+        "title":"Hotel Auberge le Panier",
+        "subtitle":"Nuit a partir de 23€",
+        "rating":"5"
+    }
+    ,
+    {
+        "id":6,
+        "hotel":"Palace",
+        "image":"./images/hebergements/febrian-zakaria.jpg",
+        "title":"Hotel Chez Amina",
+        "subtitle":"Nuit a partir de 96€",
+        "rating":"5"
+    }
+
+]
